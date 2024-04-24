@@ -1,0 +1,9 @@
+[project]
+name = "scikit-gitignore-issue"
+version = "0.1.0"
+
+[build-system]
+requires = [
+    "scikit-build-core >= 0.8.2"
+]
+build-backend = "scikit_build_core.build"
